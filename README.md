@@ -6,3 +6,4 @@
 </div>
 
 # Τhis project is a site about e-food orders from a restaurant business
+<h3><ins> You need to use Mozilla Firefox !!!! </ins></h3>
